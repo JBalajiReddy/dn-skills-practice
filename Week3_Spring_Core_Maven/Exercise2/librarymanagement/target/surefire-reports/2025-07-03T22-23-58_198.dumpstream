@@ -1,5 +1,0 @@
-# Created at 2025-07-03T22:23:58.586
-Boot Manifest-JAR contains absolute paths in classpath 'F:\Cognizant\dn-skills-practice\Week3_Spring_Core_Maven\Exercise2\librarymanagement\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-'other' has different root
-
